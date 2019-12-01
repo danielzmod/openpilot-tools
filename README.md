@@ -72,9 +72,9 @@ Setup
       ```
       
     - matplotlib requirements (required to install matplotlib)
-     ```bash
-     sudo apt install libpng-dev libfreetype6-dev
-     ```
+      ```bash
+      sudo apt install libpng-dev libfreetype6-dev
+      ```
 
     **Mac**
 
